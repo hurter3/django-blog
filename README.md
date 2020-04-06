@@ -33,3 +33,5 @@ We continually tweak and adjust this template to help give you the best experien
 --------
 
 Happy coding!
+
+https://travis-ci.com/hurter3/django-blog.svg?branch=master
